@@ -23,4 +23,4 @@ Once your lowcode mod is finished, it should be packaged as shown:
     | -- data/
     | -- pack.mcmeta
 ```
-> The README.MD is not necessary to be in your packaged jar.
+> The `README.MD` or `LICENSE.MD` files are not necessary to be in your packaged jar.
